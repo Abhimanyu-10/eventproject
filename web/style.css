@@ -1,0 +1,72 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background:url(background.jpeg);
+	background-size: cover;
+	background-repeat: no-repeat;
+        background-attachment: fixed;
+}
+.header
+{
+	overflow: hidden;
+	opacity: 0.9;
+	background-color: #7317CE;
+    padding: 20px 10px;
+}
+.header-right
+{
+	float: right;
+}
+.header a
+{
+  float: left;
+  color: white;
+  font-family: Finished Sympathy;
+  font-size: 35px; 
+  line-height: 25px;
+  text-decoration: none;
+  border-radius: 2px;
+  padding: 15px;
+  font: 100%;
+}
+.header-logo
+{
+	float: left;
+	color: white;
+	font-family: One Slice;
+	font-size: 45px;
+	font: 100%;
+}
+.left
+{
+	float: left;
+}
+.right
+{
+	float: right;
+}
+.center
+{
+	float: center;
+}
+.top
+{
+	font-size: 70px;
+	font-family: Bad Signal;
+	color: white;
+        background-color: #7317CE;
+        padding: 20px;
+        margin: 200px;
+        opacity: 0.9;
+        
+}
+.tick
+{
+    font-size: 50px;
+	font-family: Bad Signal;
+	color: black;
+        background-color: white;
+        padding: 10px;
+        opacity: 0.9;
+}
