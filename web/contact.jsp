@@ -14,7 +14,7 @@
     </head>
     <body>
          <%
-           String username=request.getParameter("username");
+           String username=request.getParameter("uname");
            String email=request.getParameter("email");
            String subject=request.getParameter("subject");
            String message=request.getParameter("message");
